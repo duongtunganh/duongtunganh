@@ -18,8 +18,12 @@ markdown:           rdiscount
 nav:
   - name:           "Giới thiệu"
     href:           "/about"
-  - name:           "Tải về"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name:           "Tech Review"
+    href:           "/techreview"
+  - name:           "Lập trình"
+    href:           "/dev"
+  - name:           "Đồ hoạ"
+    href:           "/graphics"
 
 # Sass
 sass:
