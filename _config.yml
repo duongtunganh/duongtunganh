@@ -18,8 +18,6 @@ markdown:           kramdown
 nav:
   - name:           "Giới thiệu"
     href:           "/about"
-  - name:           "Tech Review"
-    href:           "/techreview"
   - name:           "Lập trình"
     href:           "/dev"
   - name:           "Đồ hoạ"
