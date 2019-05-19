@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "duongtunganh"
+name:               "Duong Tung Anh"
 
 # URL
 url: "duongtunganh.github.io"
@@ -18,6 +18,8 @@ markdown:           kramdown
 nav:
   - name:           "Giới thiệu"
     href:           "/about"
+  - name:           "Tech Review"
+    href:           "/tech"
   - name:           "Lập trình"
     href:           "/dev"
   - name:           "Đồ hoạ"
