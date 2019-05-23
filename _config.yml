@@ -16,13 +16,15 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "Giới thiệu"
+  - name:           "Home"
+    href:           "//duongtunganh.space"
+  - name:           "About"
     href:           "/about"
-  - name:           "Tech Review"
+  - name:           "Tools"
     href:           "/tech"
-  - name:           "Lập trình"
+  - name:           "Programming"
     href:           "/dev"
-  - name:           "Đồ hoạ"
+  - name:           "Graphics"
     href:           "/graphics"
 
 # Sass
