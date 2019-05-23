@@ -45,7 +45,7 @@ Trong tương lai mình dự định làm một hệ thống tưới cây thông
 * Từng sở hữu kênh 3 kênh YouTube với tổng cộng 9.000 người đăng ký, 2 triệu lượt xem cả kênh
 * [Trailer CSC 2018](https://www.facebook.com/thethaoCBH/videos/754298951578525/) - Từng edit video quảng cáo giải bóng đá CSC 2018 của trường
 * [Về trường ăn Tết](https://www.facebook.com/chnmagazine/videos/684267841967277/) - Là chủ nhân của bộ phim ngắn gây sốt với 7 nghìn lượt xem, 300 like và hơn 100 lượt chia sẻ trên trang Facebook
-* [Chuyên Biên Hoà Football Cup 2019] - Đảm nhiệm live stream, phát trực tiếp trên Facebook toàn bộ các trận đấu xuyên suốt mùa giải
+* [Chuyên Biên Hoà Football Cup 2019](https://www.facebook.com/pg/ChuyenBienHoaFC/videos/) - Đảm nhiệm live stream, phát trực tiếp trên Facebook toàn bộ các trận đấu xuyên suốt mùa giải
 * [Quảng cáo xe điện PEGA Cap A9](https://www.youtube.com/watch?v=eGu405cksdQ) - Từng đảm nhiệm quay phim, dựng phim
 * [g o  a w a y](https://www.youtube.com/watch?v=Nv3rVIDcGhI) - Phim ngắn tự sản xuất
 * [Mùa hè đáng nhớ](https://www.facebook.com/tunna.duong/videos/vb.100025160405724/163984867783526/) - Phim ngắn dạng vlog quay dưới nước
@@ -53,7 +53,7 @@ Trong tương lai mình dự định làm một hệ thống tưới cây thông
 * [Chương trình phát nhạc theo yêu cầu](https://www.facebook.com/tunna.duong/videos/) - Tự sản xuất trên nền tảng Facebook
 * Có kinh nghiệm live stream chơi game trên Facebook Gaming và YouTube Gaming
 
-Phùu, và đó là toàn bộ những thứ mà mình đã làm. Danh sách này vẫn chưa đầy đủ vì có vài dự án bị lãng quên hoặc bị xoá
+Phùu, và đó là toàn bộ những thứ mà mình đã làm. Danh sách này vẫn chưa đầy đủ vì có vài dự án bị lãng quên hoặc bị xoá. Anyway, dưới đây là góc review đồ công nghệ mà mình đã sử dụng:
 
 ## Góc review đồ công nghệ
 
