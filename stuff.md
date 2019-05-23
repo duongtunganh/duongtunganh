@@ -7,7 +7,7 @@ permalink: /stuff/
 
 ## Những thứ mình đã làm
 Mình từng làm và nghịch ngợm rất nhiều thứ liên quan đến công nghệ thông tin nhưng do mình làm lâu rồi nên không nhớ để kể hết ra. Dưới đây là một số mảng và dự án lớn nhỏ trong số những dự án mình từng tham gia phát triển:
-### Lập trình phần mềm
+### Lập trình phần mềm, trang web
 * [Oriental Garden Supplies](https://orientalgardensupplies.blogspot.com) - Nhà cung cấp dụng cụ và thiết bị trang trí cây vườn có trụ sở tại Úc và Việt Nam
 * [VietNews](https://vietnews.online/) - Trang tin tức báo chí tổng hợp của người Việt
 * [c4k60.ga](https://c4k60.ga/) - Trang web tra cứu điểm thi, kết quả học tập, thời khoá biểu của lớp mình (Phiên bản 2.0)
