@@ -19,7 +19,7 @@ nav:
   - name:           "About me"
     href:           "/about"
   - name:           "My stuff"
-    href:           "/stuff"
+    href:           "/my-stuff"
   - name:           "Programming"
     href:           "/dev"
   - name:           "Graphics"

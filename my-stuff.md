@@ -1,9 +1,9 @@
 ---
 title: My stuff
-permalink: /stuff/
+permalink: /my-stuff/
 ---
 
-<p class="lead">Đây là góc nhỏ nơi mình giới thiệu những sản phẩm sáng tạo, và các dự án mà mình đã từng làm. Và cũng là nơi mình muốn chia sẻ những món đồ mình đang sử dụng.</p>
+<p class="lead">Đây là góc nhỏ nơi mình giới thiệu những sản phẩm sáng tạo, các dự án mà mình đã từng làm. Và cũng là nơi mình muốn chia sẻ trải nghiệm sử dụng, review những món đồ công nghệ mình đang sử dụng.</p>
 
 ## Những thứ mình đã làm
 Mình từng làm và nghịch ngợm rất nhiều thứ liên quan đến công nghệ thông tin nhưng do mình làm lâu rồi nên không nhớ để kể hết ra. Dưới đây là một số mảng và dự án lớn nhỏ trong số những dự án mình từng tham gia phát triển:
