@@ -16,12 +16,10 @@ markdown:           kramdown
 
 # Navigation
 nav:
-  - name:           "Home"
-    href:           "//duongtunganh.space"
-  - name:           "About"
+  - name:           "About me"
     href:           "/about"
-  - name:           "Tools"
-    href:           "/tech"
+  - name:           "My stuff"
+    href:           "/stuff"
   - name:           "Programming"
     href:           "/dev"
   - name:           "Graphics"
