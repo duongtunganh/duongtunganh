@@ -20,10 +20,8 @@ nav:
     href:           "/about"
   - name:           "My stuff"
     href:           "/my-stuff"
-  - name:           "Programming"
-    href:           "/dev"
-  - name:           "Graphics"
-    href:           "/graphics"
+  - name:           "Life style"
+    href:           "/lifestyle"
 
 # Sass
 sass:
