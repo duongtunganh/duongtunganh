@@ -3,7 +3,7 @@ title: About me
 permalink: /about/
 ---
 
-![Ảnh của tui](/img/avatar.jpg "Ảnh của tui"){: .center-image }
+![Ảnh của tui](/img/avatar.jpg "Ảnh của tui"){: .center-image .avatar}
 
 <p class="lead">Hey hey! Chào mừng các bạn đã đến với blog của mình. Mình là Dương Tùng Anh, hiện đang là học sinh lớp 10 tại THPT Chuyên Hà Nam.</p>
 
