@@ -3,6 +3,8 @@ title: About me
 permalink: /about/
 ---
 
+![Ảnh của tui](/img/avatar.jpg "Ảnh của tui")
+
 <p class="lead">Hey hey! Chào mừng các bạn đã đến với blog của mình. Mình là Dương Tùng Anh, hiện đang là học sinh lớp 10 tại THPT Chuyên Hà Nam.</p>
 
 Mình rất thích nghiên cứu, tìm tòi về công nghệ thông tin, về cách mọi vật hoạt động. Bên cạnh đó, mình còn có một tình yêu với nhiếp ảnh và làm phim. Vì vậy, mọi người thường hay gọi mình là một con mọt máy tính.
