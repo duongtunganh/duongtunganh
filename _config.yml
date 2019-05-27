@@ -20,7 +20,7 @@ nav:
     href:           "/about"
   - name:           "My stuff"
     href:           "/my-stuff"
-  - name:           "Life style"
+  - name:           "Lifestyle"
     href:           "/lifestyle"
 
 # Sass
