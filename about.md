@@ -7,7 +7,7 @@ permalink: /about/
 
 Mình rất thích nghiên cứu, tìm tòi về công nghệ thông tin, về cách mọi vật hoạt động. Bên cạnh đó, mình còn có một tình yêu với nhiếp ảnh và làm phim. Vì vậy, mọi người thường hay gọi mình là một con mọt máy tính.
 
-## Hãy cùng kết nối với mình
+## Hãy cùng kết nối!
 
 Bạn có thể tìm thấy mình qua Twitter: [@tunganh03](https://twitter.com/tunganh03), Facebook: [@tunna.duong](https://facebook.com/tunna.duong), Instagram: [@tunganhduongg](https://instagram.com/tunganhduongg)
 
