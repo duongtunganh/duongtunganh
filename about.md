@@ -11,7 +11,7 @@ Mình rất thích nghiên cứu, tìm tòi về công nghệ thông tin, về c
 
 Bạn có thể tìm thấy mình qua Twitter: [@tunganh03](https://twitter.com/tunganh03), Facebook: [@tunna.duong](https://facebook.com/tunna.duong), Instagram: [@tunganhduongg](https://instagram.com/tunganhduongg)
 
-Ngoài ra, nếu bạn muốn tìm hiểu thêm về các dự án của mình, hãy nhấn Follow và cho mình một Star trên GitHub: @tunganh03
+Ngoài ra, nếu bạn muốn tìm hiểu thêm về các dự án của mình, hãy nhấn Follow và cho mình một Star trên GitHub: [@tunganh03](https://github.com/tunganh03)
 
 Cảm ơn mọi người!
 
