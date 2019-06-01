@@ -1,5 +1,5 @@
 ---
-title: Nhật ký một tuần biến mất khỏi cuộc đời Thư
+title: Nhật ký một tuần biến mất khỏi cuộc đời ai đó
 comments: true
 ---
 
