@@ -21,18 +21,18 @@ Gõ nhiều chắc cũng mệt rồi nhỉ. Nằm yên một lát mà tôi khôn
 
 Thực sự tôi rất lười nên ban đêm có lẽ là thời gian thích hợp cho tôi để làm những công việc liên quan đến ghi chép. Tôi thật yêu quý ban đêm làm sao, nó cho tôi cảm giác trống trải nên hoàn toàn tập trung vào những việc mình đang làm. Thường thì mọi ngày, tôi sẽ nhắn tin hoặc nói chuyện với Thư cho tới tận nửa đêm. Nhưng đêm nay thì có lẽ tôi sẽ phải thức tới tận sáng thật rồi vì.... TIK TOK TIK TOK... 30 phút nữa là đến trận chung kết Cup C1 châu Âu, giữa Tottenham và Liverpool, một trận đấu thật không thể bỏ qua. Nói thêm một chút về hôm nay của tôi. Có lẽ vì ngày nào tôi cũng có cảm giác thật cô đơn và trống trải nên việc không nhắn tin và vào nick Thư với tôi giờ cũng thật là bình thường. Chiều nay trong lúc lướt Facebook xem cuộc sống tươi đẹp của mọi người ở ngoài kia, tôi chợt thấy một page từ trường THPT Việt Đức Hà Nội. Nội dung page là gì thì tôi cũng quên rồi nhưng vì nó có giao diện thật đẹp. Từ cover, avatar đến hình ảnh cho từng post đều được design thật đẹp và tuyệt vời. Chúng khiến tôi cảm thấy có động lực để tiếp tục đóng góp cho mái trường tôi đang theo học: THPT Chuyên Hà Nam. Rồi tôi gặp được một video đã thay đổi tôi khác hẳn với mọi ngày trong tối hôm đó: CHÀO 01. Dù hơi dài: 11 phút nhưng đó thực sự là một video hay đến giây cuối cùng, được quay và edit hoàn toàn bởi học sinh của trường THPT Việt Đức. Go ahead and visit my Facebook profile nếu bạn chưa xem và muốn xem clip này. Sau khi xem xong, ngay lập tức tôi nghĩ ngay đến chuyện thành lập một câu lạc bộ làm phim trong trường. Cả tối hôm đó tôi cùng đồng bọn, những người cùng sở thích và đam mê làm phim trong trường tôi đã nhắn tin bàn bạc, setup các thứ về cái câu lạc bộ non nớt này. Deadline sắp tới của tôi là chiều mai: Viết một bài đăng Confession của trường về tuyển dụng những thành viên cùng sở thích với chúng tôi, nhất là trong bối cảnh K61 đã thi tuyển sinh xong và sắp vào trường. Nhưng bỏ qua chuyện của ngày mai đi ngay bây giờ đầu tôi vẫn còn đang quanh quẩn lời bài hát của bài nhạc Nothing Left của itsnk:
 
->"Chìm trong bóng tối tôi đang say vì em đó babe
->Thời gian trôi qua, giờ chỉ còn hai chúng ta
->Ngày mình kề bên nhau ấy, giờ chỉ còn nỗi thiết tha
->Và xin em đó babe, đừng làm tôi đau, thêm nữa
->Và xin em đó babe, đừng để lòng tôi thêm xót xa.
+>"Chìm trong bóng tối tôi đang say vì em đó babe  
+>Thời gian trôi qua, giờ chỉ còn hai chúng ta  
+>Ngày mình kề bên nhau ấy, giờ chỉ còn nỗi thiết tha  
+>Và xin em đó babe, đừng làm tôi đau, thêm nữa  
+>Và xin em đó babe, đừng để lòng tôi thêm xót xa.  
 >
->Mình anh nơi đây giấc mơ anh xa mãi, xa mãi, 
->Câu chuyện ta viết nên đành quên mãi, quên mãi
->Em nói em nói em không rời xa
->Quên hết yêu thương ngày qua babe.
->Trong lúc anh đắm chìm trong rượu say,
->Thì em đang yên vui cùng ai, babe."
+>Mình anh nơi đây giấc mơ anh xa mãi, xa mãi,  
+>Câu chuyện ta viết nên đành quên mãi, quên mãi  
+>Em nói em nói em không rời xa  
+>Quên hết yêu thương ngày qua babe.  
+>Trong lúc anh đắm chìm trong rượu say,  
+>Thì em đang yên vui cùng ai, babe."  
 
 
 
