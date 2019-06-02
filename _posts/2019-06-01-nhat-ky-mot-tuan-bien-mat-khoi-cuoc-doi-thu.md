@@ -34,7 +34,8 @@ Thực sự tôi rất lười nên ban đêm có lẽ là thời gian thích h�
 >Trong lúc anh đắm chìm trong rượu say,  
 >Thì em đang yên vui cùng ai, babe."  
 
+##### 23:19 PM
 
-
+Có lẽ là do hôm nay thức đêm hơi nhiều, đến tận 4h sáng nên tôi đã bị lười viết bài. Nhất là sáng nay 9h tôi đã bị đánh thức bởi một cơn đau bụng dữ dội do đêm qua trong lúc xem bóng đá tôi đã nốc 2 gói mì tôm vì đói. Hôm nay tôi ngủ ít hơn so với mọi ngày, chỉ hơn 4 tiếng ngủ. Thường thì tôi thường ngủ vào lúc
 
 ---
