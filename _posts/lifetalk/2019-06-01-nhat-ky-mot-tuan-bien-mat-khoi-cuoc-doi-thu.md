@@ -2,6 +2,7 @@
 title: Nhật ký một tuần biến mất khỏi cuộc đời ai đó
 comments: true
 category: lifetalk
+layout: lifetalk
 ---
 
 <p class="lead">Đúng vậy, bạn không nghe nhầm đâu! Đây sẽ là nơi tôi viết ra những cảm nghĩ của mình trong suốt 1 tuần tôi bắt đầu biến mất khỏi cuộc đời của Trần Minh Thư - cô bạn gái ngày nào của tôi.</p>
@@ -42,5 +43,3 @@ Có lẽ là do hôm nay thức đêm hơi nhiều, đến tận 4h sáng nên t
 Ở trên này tôi như béo ra, ăn nhiều hơn vì bị chú ép và cũng là nể chú, hoạt động thể thao thì có đấy nhưng vẫn chưa đủ. Chiều nay tôi đi bơi, có lẽ là buổi đi bơi cuối cùng trong chuyến rời nhà chu du tại Hà Nội. Tối thì lại về nhà nằm ăn hại trên cái ghế sofa, bị ép ngồi coi mấy video nhảm nhí trên YouTube TV theo sự kiểm soát của "ông tướng nhỏ tuổi" trong nhà. Một phần vì chia tay người yêu, tôi không còn ai để nhắn tin, để dán mắt vào điện thoại 24/24 mong chờ một dòng tin nhắn, phần vì Bốp, em tôi đã lấy điện thoại của tôi chơi Liên Quân nên tôi cũng chả còn lựa chọn nào khác ngoài việc xem TV. Nhưng hôm nay lại khác, tôi cực kì buồn ngủ sau khi xem đến 8h30, đến 10h30 thì bị thằng Bốp gọi dậy lên phòng ngủ. Mọi chuyện như sự tính toán của tôi, đằng nào tôi cũng muốn ngủ trước để đêm thức khuya viết lách cho thật dễ dàng.
 
 ### Day 3: Công việc
-
----
