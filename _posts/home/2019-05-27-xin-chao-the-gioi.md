@@ -1,6 +1,7 @@
 ---
 title: Xin chào thế giới!
 comments: true
+category: home
 ---
 
 <p class="lead">Đây là bài viết đầu tiên trên blog của tôi!</p>

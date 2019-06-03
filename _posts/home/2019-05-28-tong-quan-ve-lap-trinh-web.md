@@ -1,6 +1,7 @@
 ---
 title: Tổng quan về lập trình web
 comments: true
+category: home
 ---
 
 <p class="lead">Bài viết này sẽ nói về tổng quan của ngành lập trình web dưới góc nhìn của mình - một thằng nhóc 16 tuổi, dựa trên những kiến thức về lập trình web mình đã tự học được.</p>

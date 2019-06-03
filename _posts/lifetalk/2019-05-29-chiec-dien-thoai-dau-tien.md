@@ -1,6 +1,7 @@
 ---
 title: Chiếc điện thoại đầu tiên mình sở hữu...
 comments: true
+category: lifetalk
 ---
 
 <p class="lead">Mình còn nhớ Wiko Rainbow Lite là chiếc sờ-mát-phôn đầu tiên của mình mua từ hồi lớp 7.</p>
