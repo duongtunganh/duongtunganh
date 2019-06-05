@@ -1,11 +1,11 @@
 ---
-title: Nhật ký một tuần biến mất khỏi cuộc đời ai đó
+title: Nhật ký một tuần biến mất khỏi cuộc đời của ai đó
 comments: true
 category: lifetalk
 layout: lifetalk
 ---
 
-<p class="lead">Đúng vậy, bạn không nghe nhầm đâu! Đây sẽ là nơi tôi viết ra những cảm nghĩ của mình trong suốt 1 tuần tôi bắt đầu biến mất khỏi cuộc đời của Trần Minh Thư - cô bạn gái ngày nào của tôi.</p>
+<p class="lead">[0:31AM Day 1] Đúng vậy, bạn không nghe nhầm đâu! Đây sẽ là nơi tôi viết ra những cảm nghĩ của mình trong suốt 1 tuần tôi bắt đầu biến mất khỏi cuộc đời của Trần Minh Thư - cô bạn gái ngày nào của tôi.</p>
 
 ### Day 1: Giải thích
 
@@ -54,7 +54,21 @@ Chiều nay tôi có đi bơi, có lẽ là buổi đi bơi cuối cùng khi ở
 
 ### Day 4: Thiên đường
 
-##### 0:36(day5)
+##### 0:36 AM(day5)
 
 Hôm nay lần đầu tớ đi grab car. tớ đi thiên đường bảo sơn lần 2. tớ về nhà. tớ gặp lại bố. bố tớ bình thường. ăn cơm xong định lên phòng thì bố bắt ngồi cạnh bố. bố giảng giải. bố xin lỗi vì hôm đó bố k bình tĩnh. bố mất 16 triệu mua iphone x mới cũng sót lắm nên từ hôm đó bố suy nghĩ đi suy nghĩ lại. tớ thì ngồi im chả nói gì xong bảo con đi tắm. tớ đối xử với ai cũng vậy, đều như thằng câm mồm. đi đến đâu cũng chả dám nói. thế nên chả có ai hiểu được tớ. tính tớ thật thất thường. hôm nay đi nhiều quá tớ mệt. chả muốn viết lách. tin nhắn trên mess về công việc trong nhóm làm phim thì cứ ngày một nhiều. lại thêm quả còn phải tư vấn mua máy ảnh cho ông anh trong trường. tớ mệt quá không có thời gian viết lách nhưng vẫn phải viết vì tớ vẫn nhớ cậu nhiều và tớ đã coi đây là công việc hằng ngày trong cả cái tuần tớ hứa với cậu đêm đó. phòng tớ thì bừa bộn. chẳng giống như phòng Bốp khiến tớ chẳng có hứng thú cho việc sáng tạo. có lẽ đây là một mùa hè mệt mỏi với tớ. Mai tớ lại phải dậy đi bộ lúc 5h vì tớ đã cho mẹ xem cái thành tích 18 nghìn bước chân mà đồng hồ đeo tay đo được trong ngày hôm nay. Nếu mai tâm trạng tớ tốt hơn tớ sẽ kể cho cậu sau.  
 Nhớ cậu nhiều, Thư ạ.
+
+### Day 5+6+7: Tạm biệt.
+
+##### 2:02 PM - 5/6/2019
+
+Hôm qua ở Thiên đường Bảo Sơn có nhiều chuyện để kể lắm mà tớ thực sự chả muốn viết vì hôm nay có nhiều thứ tớ muốn tâm sự với cậu. Hôm nay, tớ... cảm thấy mình như một con người khác vậy. Đây không phải là tớ. Tại sao tớ lại từ một con người sống ngoại tâm chuyển thành một người nội tâm thực sự. Tớ đã bắt đầu che giấu nỗi đau chính mình khỏi mạng xã hội, thay vào đó tớ chuyển hết tâm tư của mình vào đây mặc dù hiện tại chẳng có ai đọc được ngoài tớ. Tớ bắt đầu che giấu thông tin cá nhân mình khỏi mạng xã hội... Tớ ghét chụp ảnh, tớ ghét đăng tải những bức ảnh chính mình lên đó. Tớ bắt đầu suy nghĩ đến từng con chữ mình viết ra hơn. Tớ đọc đi đọc lại từng con chữ. Tớ chẳng còn được thoải mái và ngây thơ nói chuyện với bạn bè nữa. Tớ bắt đầu ít share hơn và đăng tải nhiều thứ thật kì quặc. Tớ muốn cậu đọc được từng con chữ này, đọc thật chậm. Tớ... đang dưng dưng khóc????  
+
+Đây không phải tớ. tớ không phải là người thế này. Có lẽ tớ đã trở thành người như cậu trước kia. Tớ không thích fame nữa, tớ ghét được nhiều người biết đến, tớ ghét kết bạn với thầy cô và những người lạ, tớ ghét bình luận dạo để mong có người thấy và hiểu mình, tớ ghét việc người khác chụp ảnh mình. Tớ từng có ý định muốn làm một bộ phim tâm trạng như bộ phim go away tớ làm lúc trước cậu chia tay tớ. Nhưng tớ lại muốn viết lách ở trên này hơn thay vì làm phim. Tớ không thể hiểu nổi mình.  
+
+Tớ tự thấy giọng điệu viết nhật ký của mình thay đổi chóng mặt so với các ngày khác. Hôm nay tớ xưng tớ cậu với cậu mà không phải "tôi" lúc mới rời khỏi đời cậu và "mình" trong các phần khác của trang blog này. Tớ không muốn kể nể về cả ngày của mình như các ngày khác.  
+
+Tớ bắt đầu thấy mình như một thằng trẻ trâu lúc còn làm phiền cậu và các bạn của cậu. Tớ hối hận vì đã để công việc và drama ảnh hưởng tới hình ảnh của tớ trong mắt bạn bè cậu, hối hận vì đã đi net cùng với Hải mà bỏ rơi cậu, không quan tâm đến nỗi đau thể xác của cậu. Thực ra bắt đầu từ Day 1, tớ đã block cậu cả trên Facebook và Instagram để tự bản thân cũng có thể tránh nhìn thấy cậu. Tớ đã cố quên đi cậu. Nhưng thực sự không thể. Đến Day 2, tớ đã vào nick phụ của mình trên Facebook tìm trang cá nhân cậu và vào nick Instagram của Hải nhiều hơn để ngóng trông một status cậu share, một story cậu thêm vào. Tớ thấy cậu thay ảnh Instagram của mình. Tớ nhận ra cậu đã thay đổi như những gì tớ muốn cậu trước đó. Cậu chụp ảnh nhiều hơn, thích được người khác chụp ảnh, cậu nhắn tin với bạn bè cũng thật thoải mái như ảnh tin nhắn cậu cap lại trên story Facebook. Có lẽ cậu đã trở nên năng động hơn, không còn ủ rũ như lúc còn yêu tớ.  
+
+Ôi tại sao nước mắt tớ cứ tuôn rơi mà chẳng thể ngưng. Có lẽ tớ đã có thể rời khỏi cuộc đời cậu thực sự rồi vì tớ biết chắc hẳn ý định của cậu vẫn sẽ mãi không thay đổi đâu. Yêu một người luỵ tình như tớ chắc hẳn khổ sở lắm đúng không. Khánh Linh đã nói đúng với cậu, tớ không còn gì để bàn cãi nữa. Chẳng cần một tuần hay những lời hứa nữa vì tớ thấy tớ đã gây ra cho cậu đủ đau thương rồi. Tớ không thể hoàn thành 7 ngày cũng không mong cậu tiếp tục làm bạn với tớ. Tạm biệt cậu. Tớ mong cậu luôn hạnh phúc và thoải mái với lựa chọn của mình. Chúc cậu sớm tìm được người phù hợp với mình để thay thế tớ và thực hiện được ước mơ du học của mình.
