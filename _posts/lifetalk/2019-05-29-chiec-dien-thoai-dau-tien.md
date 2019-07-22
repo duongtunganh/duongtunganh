@@ -1,7 +1,9 @@
 ---
 title: Chiếc điện thoại đầu tiên mình sở hữu...
+date: 2019-05-29 00:00:00 Z
+categories:
+- lifetalk
 comments: true
-category: lifetalk
 layout: lifetalk
 ---
 

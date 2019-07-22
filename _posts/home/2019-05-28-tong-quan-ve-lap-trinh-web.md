@@ -1,7 +1,9 @@
 ---
 title: Tổng quan về lập trình web
+date: 2019-05-28 00:00:00 Z
+categories:
+- home
 comments: true
-category: home
 ---
 
 <p class="lead">Bài viết này sẽ nói về tổng quan của ngành lập trình web dưới góc nhìn của mình - một thằng nhóc 16 tuổi, dựa trên những kiến thức về lập trình web mình đã tự học được.</p>

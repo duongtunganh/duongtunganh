@@ -1,43 +1,35 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
-# Basic
-name:               "Tùng Anh"
-
-# URL
-url: "duongtunganh.space"
-baseurl:            ""
-#baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
-
-# Markdown
-markdown:           kramdown
-
-# Navigation
-nav:
-  - name:           "About me"
-    href:           "/about"
-  - name:           "My stuff"
-    href:           "/my-stuff"
-  - name:           "Lifetalk"
-    href:           "/lifetalk"
-
-# Sass
-sass:
-  style:            :compressed
-
-# Scopes
+---
+title: Duongtunganh.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+name: Tùng Anh
+url: duongtunganh.space
+baseurl: ''
+permalink: "/:year/:month/:day/:title.html"
+markdown: kramdown
+nav:
+- name: About me
+  href: "/about"
+- name: My stuff
+  href: "/my-stuff"
+- name: Lifetalk
+  href: "/lifetalk"
+sass:
+  style: :compressed

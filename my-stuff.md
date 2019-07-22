@@ -1,6 +1,6 @@
 ---
 title: My stuff
-permalink: /my-stuff/
+permalink: "/my-stuff/"
 ---
 
 <p class="lead">Đây là góc nhỏ nơi mình giới thiệu những sản phẩm sáng tạo, các dự án mà mình đã từng làm. Và cũng là nơi mình muốn chia sẻ trải nghiệm sử dụng, review những món đồ công nghệ mình đang sử dụng.</p>

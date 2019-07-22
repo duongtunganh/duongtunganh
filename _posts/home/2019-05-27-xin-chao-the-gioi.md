@@ -1,7 +1,9 @@
 ---
 title: Xin chào thế giới!
+date: 2019-05-27 00:00:00 Z
+categories:
+- home
 comments: true
-category: home
 ---
 
 <p class="lead">Đây là bài viết đầu tiên trên blog của tôi!</p>
