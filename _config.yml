@@ -20,7 +20,7 @@ defaults:
   values:
     layout: post
 name: Tùng Anh
-url: duongtunganh.space/duongtunganh
+url: duongtunganh.github.io/duongtunganh
 baseurl: ''
 permalink: "/:year/:month/:day/:title.html"
 markdown: kramdown
